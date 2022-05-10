@@ -19,3 +19,5 @@ git pull origin master
 git remote -v
 //저장소 주소 바꾸기
 git remote set-url origin "주소"
+
+잘 되고있는지 확인 확인
